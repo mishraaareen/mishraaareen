@@ -56,12 +56,6 @@ Cybersecurity Enthusiast • Cloud Security • Linux • Networking
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=mishraaareen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </p>
 
@@ -76,7 +70,7 @@ mishra.aareen81@gmail.com
 https://github.com/mishraaareen
 
 💼 **LinkedIn:**  
-linkedin.com/in/aareen-mishra-b57b2237b
+https://www.linkedin.com/in/aareen-mishra-b57b2237b/
 
 
 ---
