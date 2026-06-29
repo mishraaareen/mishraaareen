@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Aareen+Mishra;Cybersecurity+Enthusiast;Aspiring+Cloud+Security+Engineer;Exploring+SOC+Operations;Linux+Explorer;UPES+Dehradun"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Aareen+Mishra;Cybersecurity+Enthusiast;Aspiring+Cloud+Security+Engineer;Exploring+SOC+Operations;Linux+Explorer"/>
 
 </p>
 
