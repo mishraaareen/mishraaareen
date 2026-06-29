@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Aareen+Mishra;Cybersecurity+Enthusiast;Cloud+Security+Learner;Linux+Explorer;SOC+Analyst+Aspirant;UPES+Dehradun"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Aareen+Mishra;Cybersecurity+Enthusiast;Aspiring+Cloud+Security+Engineer;Exploring+SOC+Operations;Linux+Explorer;UPES+Dehradun"/>
 
 </p>
 
@@ -16,9 +16,9 @@ Cybersecurity Enthusiast • Cloud Security • Linux • Networking
 
 🎓 B.Tech CSE (Cybersecurity) @ UPES Dehradun
 
-🛡️ Aspiring Cloud Security
+☁️ Aspiring Cloud Security Engineer
 
-☁️ Exploring SOC Analyst
+🛡️ Exploring SOC Operations & Blue Teaming
 
 🐧 Linux Enthusiast
 
@@ -26,7 +26,7 @@ Cybersecurity Enthusiast • Cloud Security • Linux • Networking
 
 🐍 Python Explorer
 
-🔍 Interested in Threat Detection & Blue Teaming
+🔍 Interested in Threat Detection & Defensive Security
 
 🚀 Building skills through labs, projects and continuous learning
 
@@ -63,74 +63,23 @@ Cybersecurity Enthusiast • Cloud Security • Linux • Networking
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=mishraaareen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraaareen&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📫 Contact Me
 
-<p align="center">
+📧 **Email:**  
+mishra.aareen81@gmail.com
 
-<img src="https://streak-stats.demolab.com?user=mishraaareen&theme=tokyonight&hide_border=true"/>
+🐙 **GitHub:**  
+https://github.com/mishraaareen
 
-</p>
+💼 **LinkedIn:**  
+linkedin.com/in/aareen-mishra-b57b2237b
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mishraaareen&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraaareen&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/mishraaareen">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_LINK">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-
-</a>
-
-<!-- TryHackMe add later -->
-
-<!--
-<a href="https://tryhackme.com/p/USERNAME">
-
-<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme">
-
-</a>
--->
-
-</p>
-
----
-
-## 👀 Visitors
 
 <p align="center">
 
@@ -142,6 +91,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraaareen
 
 <p align="center">
 
-⚡ Learning never stops ⚡
+⚡ Learning • Building • Securing ⚡
 
 </p>
